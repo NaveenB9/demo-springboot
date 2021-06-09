@@ -1,0 +1,21 @@
+
+    {
+    "departmentName":"CSE",
+    "departmentAddress":"Nizamabad",
+      "departmentCode":"CSE-07"
+  }
+{
+    "departmentName":"IT",
+    "departmentAddress":"BAN",
+    "departmentCode":"IT-10"
+}
+{
+    "departmentName":"EC",
+    "departmentAddress":"MUM",
+    "departmentCode":"EC-11"
+}
+{
+    "departmentName":"EEE",
+    "departmentAddress":"AP",
+    "departmentCode":"EE-12"
+}
